@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102475132395",
+    "project_id": "storymoney-412d5",
+    "storage_bucket": "storymoney-412d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102475132395:android:63894372515ee561213dae",
+        "android_client_info": {
+          "package_name": "com.example.mygroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102475132395-4mq0nr6bguhkk5qcj46fub010f4ailua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiuxTct49gWE6Y8gFD9XH2xENRHt4GDBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102475132395-4mq0nr6bguhkk5qcj46fub010f4ailua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
